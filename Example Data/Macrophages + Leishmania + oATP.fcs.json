@@ -1,0 +1,64 @@
+{
+ "kind": "TableSchema",
+ "id": "5",
+ "isDeleted": false,
+ "rev": "",
+ "description": "",
+ "name": "Macrophages + Leishmania + oATP.fcs",
+ "acl": {
+  "kind": "Acl",
+  "owner": "",
+  "aces": []
+ },
+ "createdDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "lastModifiedDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "urls": [],
+ "tags": [],
+ "meta": [],
+ "url": {
+  "kind": "Url",
+  "uri": ""
+ },
+ "version": "",
+ "isPublic": false,
+ "projectId": "",
+ "folderId": "1",
+ "nRows": 0,
+ "columns": [],
+ "dataDirectory": "",
+ "relation": {
+  "kind": "CompositeRelation",
+  "id": "13140a42-9af3-40e8-9b80-4391e5f16868",
+  "joinOperators": [
+   {
+    "kind": "JoinOperator",
+    "joinType": "",
+    "leftPair": {
+     "kind": "ColumnPair",
+     "lColumns": [
+      "event_id"
+     ],
+     "rColumns": [
+      "event_id"
+     ]
+    },
+    "rightRelation": {
+     "kind": "SimpleRelation",
+     "id": "0497ba9acf0ca02f8e0e8c78832df94122177ad9bd1dabc10faa2f851852072e",
+     "index": 0
+    }
+   }
+  ],
+  "mainRelation": {
+   "kind": "SimpleRelation",
+   "id": "81e2536348e79452a45caf4ca2edcfc052d301df2e47bc9c8279df9d34e36b02",
+   "index": 0
+  }
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "kind": "FileDocument",
+ "id": "Guides/A4 - Filter Channels and Values.md",
+ "isDeleted": false,
+ "rev": "",
+ "description": "",
+ "name": "A4 - Filter Channels and Values.md",
+ "acl": {
+  "kind": "Acl",
+  "owner": "",
+  "aces": []
+ },
+ "createdDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "lastModifiedDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "urls": [],
+ "tags": [],
+ "meta": [],
+ "url": {
+  "kind": "Url",
+  "uri": ""
+ },
+ "version": "",
+ "isPublic": false,
+ "projectId": "",
+ "folderId": "2",
+ "dataUri": "95/11/95111638-5923-47eb-ab4c-6b959e47cb0f",
+ "metadata": {
+  "kind": "FileMetadata",
+  "contentType": "",
+  "cacheControl": "",
+  "contentEncoding": "",
+  "contentLanguage": "",
+  "md5Hash": ""
+ },
+ "size": 182
+}

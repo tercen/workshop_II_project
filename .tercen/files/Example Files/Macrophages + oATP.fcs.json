@@ -1,0 +1,42 @@
+{
+ "kind": "FileDocument",
+ "id": "Example Files/Macrophages + oATP.fcs",
+ "isDeleted": false,
+ "rev": "",
+ "description": "",
+ "name": "Macrophages + oATP.fcs",
+ "acl": {
+  "kind": "Acl",
+  "owner": "",
+  "aces": []
+ },
+ "createdDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "lastModifiedDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "urls": [],
+ "tags": [],
+ "meta": [],
+ "url": {
+  "kind": "Url",
+  "uri": ""
+ },
+ "version": "",
+ "isPublic": false,
+ "projectId": "",
+ "folderId": "0",
+ "dataUri": "3d/f1/3df11cb5-e757-43b5-b45c-812699d5f8ca",
+ "metadata": {
+  "kind": "FileMetadata",
+  "contentType": "",
+  "cacheControl": "",
+  "contentEncoding": "",
+  "contentLanguage": "",
+  "md5Hash": ""
+ },
+ "size": 1015594
+}

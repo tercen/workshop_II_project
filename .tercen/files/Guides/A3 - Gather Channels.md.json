@@ -1,0 +1,42 @@
+{
+ "kind": "FileDocument",
+ "id": "Guides/A3 - Gather Channels.md",
+ "isDeleted": false,
+ "rev": "",
+ "description": "",
+ "name": "A3 - Gather Channels.md",
+ "acl": {
+  "kind": "Acl",
+  "owner": "",
+  "aces": []
+ },
+ "createdDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "lastModifiedDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "urls": [],
+ "tags": [],
+ "meta": [],
+ "url": {
+  "kind": "Url",
+  "uri": ""
+ },
+ "version": "",
+ "isPublic": false,
+ "projectId": "",
+ "folderId": "2",
+ "dataUri": "f4/98/f4988fbc-bf86-4696-8f04-f368fcfb0276",
+ "metadata": {
+  "kind": "FileMetadata",
+  "contentType": "",
+  "cacheControl": "",
+  "contentEncoding": "",
+  "contentLanguage": "",
+  "md5Hash": ""
+ },
+ "size": 171
+}

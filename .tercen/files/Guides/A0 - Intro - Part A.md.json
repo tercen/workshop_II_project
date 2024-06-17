@@ -1,0 +1,42 @@
+{
+ "kind": "FileDocument",
+ "id": "Guides/A0 - Intro - Part A.md",
+ "isDeleted": false,
+ "rev": "",
+ "description": "",
+ "name": "A0 - Intro - Part A.md",
+ "acl": {
+  "kind": "Acl",
+  "owner": "",
+  "aces": []
+ },
+ "createdDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "lastModifiedDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "urls": [],
+ "tags": [],
+ "meta": [],
+ "url": {
+  "kind": "Url",
+  "uri": ""
+ },
+ "version": "",
+ "isPublic": false,
+ "projectId": "",
+ "folderId": "2",
+ "dataUri": "71/ab/71ab58aa-37c1-44b6-9741-d09eebe905fe",
+ "metadata": {
+  "kind": "FileMetadata",
+  "contentType": "",
+  "cacheControl": "",
+  "contentEncoding": "",
+  "contentLanguage": "",
+  "md5Hash": ""
+ },
+ "size": 312
+}

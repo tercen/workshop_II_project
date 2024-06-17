@@ -1,0 +1,64 @@
+{
+ "kind": "TableSchema",
+ "id": "3",
+ "isDeleted": false,
+ "rev": "",
+ "description": "",
+ "name": "Sample FCS files.zip",
+ "acl": {
+  "kind": "Acl",
+  "owner": "",
+  "aces": []
+ },
+ "createdDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "lastModifiedDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "urls": [],
+ "tags": [],
+ "meta": [],
+ "url": {
+  "kind": "Url",
+  "uri": ""
+ },
+ "version": "",
+ "isPublic": false,
+ "projectId": "",
+ "folderId": "1",
+ "nRows": 0,
+ "columns": [],
+ "dataDirectory": "",
+ "relation": {
+  "kind": "CompositeRelation",
+  "id": "48494638-743c-48e3-acd2-49596b8880de",
+  "joinOperators": [
+   {
+    "kind": "JoinOperator",
+    "joinType": "",
+    "leftPair": {
+     "kind": "ColumnPair",
+     "lColumns": [
+      "event_id"
+     ],
+     "rColumns": [
+      "event_id"
+     ]
+    },
+    "rightRelation": {
+     "kind": "SimpleRelation",
+     "id": "3bbf2ed615c0b9ad755419ac54b462e1626bd1a66255b6bc9cbdcb21648d656e",
+     "index": 0
+    }
+   }
+  ],
+  "mainRelation": {
+   "kind": "SimpleRelation",
+   "id": "9fc662a2a2ceaa00b1cfd9818006bdaf8b6fdbebfdcab5fc07bbaf732c5dcfa4",
+   "index": 0
+  }
+ }
+}

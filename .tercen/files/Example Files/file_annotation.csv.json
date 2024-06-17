@@ -1,0 +1,42 @@
+{
+ "kind": "FileDocument",
+ "id": "Example Files/file_annotation.csv",
+ "isDeleted": false,
+ "rev": "",
+ "description": "",
+ "name": "file_annotation.csv",
+ "acl": {
+  "kind": "Acl",
+  "owner": "",
+  "aces": []
+ },
+ "createdDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "lastModifiedDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "urls": [],
+ "tags": [],
+ "meta": [],
+ "url": {
+  "kind": "Url",
+  "uri": ""
+ },
+ "version": "",
+ "isPublic": false,
+ "projectId": "",
+ "folderId": "0",
+ "dataUri": "6b/a3/6ba3899e-31ba-4e9a-bc0b-4b237230557d",
+ "metadata": {
+  "kind": "FileMetadata",
+  "contentType": "",
+  "cacheControl": "",
+  "contentEncoding": "",
+  "contentLanguage": "",
+  "md5Hash": ""
+ },
+ "size": 84
+}

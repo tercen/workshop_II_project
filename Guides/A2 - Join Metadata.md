@@ -1,0 +1,1 @@
+<iframe src="https://scribehow.com/embed/0202__Join_Metadata__cdRQ9xueQZadrUd8bvWBew?removeLogo=true" width="100%" height="640" allowfullscreen frameborder="0"></iframe>

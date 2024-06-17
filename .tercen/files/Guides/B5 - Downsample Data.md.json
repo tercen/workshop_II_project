@@ -1,0 +1,42 @@
+{
+ "kind": "FileDocument",
+ "id": "Guides/B5 - Downsample Data.md",
+ "isDeleted": false,
+ "rev": "",
+ "description": "",
+ "name": "B5 - Downsample Data.md",
+ "acl": {
+  "kind": "Acl",
+  "owner": "",
+  "aces": []
+ },
+ "createdDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "lastModifiedDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "urls": [],
+ "tags": [],
+ "meta": [],
+ "url": {
+  "kind": "Url",
+  "uri": ""
+ },
+ "version": "",
+ "isPublic": false,
+ "projectId": "",
+ "folderId": "2",
+ "dataUri": "48/ac/48ac666f-9841-400d-86d7-f9fd1a834f6f",
+ "metadata": {
+  "kind": "FileMetadata",
+  "contentType": "",
+  "cacheControl": "",
+  "contentEncoding": "",
+  "contentLanguage": "",
+  "md5Hash": ""
+ },
+ "size": 171
+}

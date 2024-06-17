@@ -1,0 +1,42 @@
+{
+ "kind": "FileDocument",
+ "id": "pdfs/WorkshopII_PartA.pdf",
+ "isDeleted": false,
+ "rev": "",
+ "description": "",
+ "name": "WorkshopII_PartA.pdf",
+ "acl": {
+  "kind": "Acl",
+  "owner": "",
+  "aces": []
+ },
+ "createdDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "lastModifiedDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "urls": [],
+ "tags": [],
+ "meta": [],
+ "url": {
+  "kind": "Url",
+  "uri": ""
+ },
+ "version": "",
+ "isPublic": false,
+ "projectId": "",
+ "folderId": "6",
+ "dataUri": "b0/71/b0710a56-821e-4d11-8868-bf5ce5e5b439",
+ "metadata": {
+  "kind": "FileMetadata",
+  "contentType": "",
+  "cacheControl": "",
+  "contentEncoding": "",
+  "contentLanguage": "",
+  "md5Hash": ""
+ },
+ "size": 19834225
+}

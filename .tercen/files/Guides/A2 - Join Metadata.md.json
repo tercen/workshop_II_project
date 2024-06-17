@@ -1,0 +1,42 @@
+{
+ "kind": "FileDocument",
+ "id": "Guides/A2 - Join Metadata.md",
+ "isDeleted": false,
+ "rev": "",
+ "description": "",
+ "name": "A2 - Join Metadata.md",
+ "acl": {
+  "kind": "Acl",
+  "owner": "",
+  "aces": []
+ },
+ "createdDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "lastModifiedDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "urls": [],
+ "tags": [],
+ "meta": [],
+ "url": {
+  "kind": "Url",
+  "uri": ""
+ },
+ "version": "",
+ "isPublic": false,
+ "projectId": "",
+ "folderId": "2",
+ "dataUri": "0d/3a/0d3ab81f-8bbc-4eb5-b425-f608dfd38332",
+ "metadata": {
+  "kind": "FileMetadata",
+  "contentType": "",
+  "cacheControl": "",
+  "contentEncoding": "",
+  "contentLanguage": "",
+  "md5Hash": ""
+ },
+ "size": 169
+}

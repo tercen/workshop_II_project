@@ -1,0 +1,81 @@
+{
+ "kind": "TableSchema",
+ "id": "0497ba9acf0ca02f8e0e8c78832df94122177ad9bd1dabc10faa2f851852072e",
+ "isDeleted": false,
+ "rev": "",
+ "description": "",
+ "name": "d39d5bf5-b31b-4811-be94-d4df9d395924",
+ "acl": {
+  "kind": "Acl",
+  "owner": "",
+  "aces": []
+ },
+ "createdDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "lastModifiedDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "urls": [],
+ "tags": [],
+ "meta": [
+  {
+   "kind": "Pair",
+   "key": "hidden",
+   "value": "true"
+  },
+  {
+   "kind": "Pair",
+   "key": "SHA256",
+   "value": "0497ba9acf0ca02f8e0e8c78832df94122177ad9bd1dabc10faa2f851852072e"
+  }
+ ],
+ "url": {
+  "kind": "Url",
+  "uri": ""
+ },
+ "version": "",
+ "isPublic": false,
+ "projectId": "",
+ "folderId": "",
+ "nRows": 162373,
+ "columns": [
+  {
+   "kind": "ColumnSchema",
+   "id": "69d5dcff-ff1d-4b3b-86d1-25ea0435ae95",
+   "name": "event_id",
+   "type": "int32",
+   "nRows": 0,
+   "size": -1,
+   "metaData": {
+    "kind": "ColumnSchemaMetaData",
+    "sort": [],
+    "ascending": true,
+    "quartiles": [],
+    "properties": []
+   }
+  },
+  {
+   "kind": "ColumnSchema",
+   "id": "2632795d-b27d-4c09-8417-6e3eceb20051",
+   "name": "filename",
+   "type": "string",
+   "nRows": 0,
+   "size": -1,
+   "metaData": {
+    "kind": "ColumnSchemaMetaData",
+    "sort": [],
+    "ascending": true,
+    "quartiles": [],
+    "properties": []
+   }
+  }
+ ],
+ "dataDirectory": "data/04/97/0497ba9acf0ca02f8e0e8c78832df94122177ad9bd1dabc10faa2f851852072e",
+ "relation": {
+  "kind": "Relation",
+  "id": "61ab38e4-21b7-49c6-a61a-568c0c5d2acc"
+ }
+}

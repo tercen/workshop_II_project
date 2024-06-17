@@ -1,0 +1,42 @@
+{
+ "kind": "FileDocument",
+ "id": "Guides/A5 - Quiz Part A.md",
+ "isDeleted": false,
+ "rev": "",
+ "description": "",
+ "name": "A5 - Quiz Part A.md",
+ "acl": {
+  "kind": "Acl",
+  "owner": "",
+  "aces": []
+ },
+ "createdDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "lastModifiedDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "urls": [],
+ "tags": [],
+ "meta": [],
+ "url": {
+  "kind": "Url",
+  "uri": ""
+ },
+ "version": "",
+ "isPublic": false,
+ "projectId": "",
+ "folderId": "2",
+ "dataUri": "46/6a/466a9b2a-1bf6-4233-8b05-623f867f9cb0",
+ "metadata": {
+  "kind": "FileMetadata",
+  "contentType": "",
+  "cacheControl": "",
+  "contentEncoding": "",
+  "contentLanguage": "",
+  "md5Hash": ""
+ },
+ "size": 222
+}

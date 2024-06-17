@@ -1,0 +1,42 @@
+{
+ "kind": "FileDocument",
+ "id": "Example Files/Macrophages.fcs",
+ "isDeleted": false,
+ "rev": "",
+ "description": "",
+ "name": "Macrophages.fcs",
+ "acl": {
+  "kind": "Acl",
+  "owner": "",
+  "aces": []
+ },
+ "createdDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "lastModifiedDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "urls": [],
+ "tags": [],
+ "meta": [],
+ "url": {
+  "kind": "Url",
+  "uri": ""
+ },
+ "version": "",
+ "isPublic": false,
+ "projectId": "",
+ "folderId": "0",
+ "dataUri": "87/6f/876f81a3-8f87-47e8-a59f-2502af832d52",
+ "metadata": {
+  "kind": "FileMetadata",
+  "contentType": "",
+  "cacheControl": "",
+  "contentEncoding": "",
+  "contentLanguage": "",
+  "md5Hash": ""
+ },
+ "size": 297391
+}

@@ -1,0 +1,76 @@
+{
+ "kind": "TableSchema",
+ "id": "3e7abc7c5cdc99eb4fb56eb0fb6f0ca6d8b50e73d6f608afc6f28a1e1394204a",
+ "isDeleted": false,
+ "rev": "",
+ "description": "",
+ "name": "file_annotation.csv",
+ "acl": {
+  "kind": "Acl",
+  "owner": "",
+  "aces": []
+ },
+ "createdDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "lastModifiedDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "urls": [],
+ "tags": [],
+ "meta": [
+  {
+   "kind": "Pair",
+   "key": "SHA256",
+   "value": "3e7abc7c5cdc99eb4fb56eb0fb6f0ca6d8b50e73d6f608afc6f28a1e1394204a"
+  }
+ ],
+ "url": {
+  "kind": "Url",
+  "uri": ""
+ },
+ "version": "",
+ "isPublic": false,
+ "projectId": "",
+ "folderId": "1",
+ "nRows": 2,
+ "columns": [
+  {
+   "kind": "ColumnSchema",
+   "id": "03641f68-3785-4f65-8cc9-5b6b82c123f3",
+   "name": "filename",
+   "type": "string",
+   "nRows": 0,
+   "size": -1,
+   "metaData": {
+    "kind": "ColumnSchemaMetaData",
+    "sort": [],
+    "ascending": true,
+    "quartiles": [],
+    "properties": []
+   }
+  },
+  {
+   "kind": "ColumnSchema",
+   "id": "cfa82977-fd23-4315-a510-2924a9f0c699",
+   "name": "Condition",
+   "type": "string",
+   "nRows": 0,
+   "size": -1,
+   "metaData": {
+    "kind": "ColumnSchemaMetaData",
+    "sort": [],
+    "ascending": true,
+    "quartiles": [],
+    "properties": []
+   }
+  }
+ ],
+ "dataDirectory": "data/3e/7a/3e7abc7c5cdc99eb4fb56eb0fb6f0ca6d8b50e73d6f608afc6f28a1e1394204a",
+ "relation": {
+  "kind": "Relation",
+  "id": "fd2c525b-f351-42a2-aa20-10a45e79811e"
+ }
+}

@@ -1,0 +1,3 @@
+filename,Condition
+LD1_NS+NS_A01_exp.fcs,Control
+LD1_PI+PI_D01_exp.fcs,Treatment

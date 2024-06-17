@@ -1,0 +1,42 @@
+{
+ "kind": "FileDocument",
+ "id": "Guides/B1 - Plot Channels vs. Channels.md",
+ "isDeleted": false,
+ "rev": "",
+ "description": "",
+ "name": "B1 - Plot Channels vs. Channels.md",
+ "acl": {
+  "kind": "Acl",
+  "owner": "",
+  "aces": []
+ },
+ "createdDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "lastModifiedDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "urls": [],
+ "tags": [],
+ "meta": [],
+ "url": {
+  "kind": "Url",
+  "uri": ""
+ },
+ "version": "",
+ "isPublic": false,
+ "projectId": "",
+ "folderId": "2",
+ "dataUri": "24/da/24da94ac-15d3-498d-9aa8-ef116e7b3fc3",
+ "metadata": {
+  "kind": "FileMetadata",
+  "contentType": "",
+  "cacheControl": "",
+  "contentEncoding": "",
+  "contentLanguage": "",
+  "md5Hash": ""
+ },
+ "size": 185
+}

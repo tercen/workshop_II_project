@@ -1,0 +1,42 @@
+{
+ "kind": "FileDocument",
+ "id": "Guides/B3 - Clean Data.md",
+ "isDeleted": false,
+ "rev": "",
+ "description": "",
+ "name": "B3 - Clean Data.md",
+ "acl": {
+  "kind": "Acl",
+  "owner": "",
+  "aces": []
+ },
+ "createdDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "lastModifiedDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "urls": [],
+ "tags": [],
+ "meta": [],
+ "url": {
+  "kind": "Url",
+  "uri": ""
+ },
+ "version": "",
+ "isPublic": false,
+ "projectId": "",
+ "folderId": "2",
+ "dataUri": "2a/77/2a77f58d-8bc5-4c9c-a720-bea422b123f1",
+ "metadata": {
+  "kind": "FileMetadata",
+  "contentType": "",
+  "cacheControl": "",
+  "contentEncoding": "",
+  "contentLanguage": "",
+  "md5Hash": ""
+ },
+ "size": 166
+}

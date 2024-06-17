@@ -1,0 +1,42 @@
+{
+ "kind": "FileDocument",
+ "id": "Guides/B2 - Transform Data.md",
+ "isDeleted": false,
+ "rev": "",
+ "description": "",
+ "name": "B2 - Transform Data.md",
+ "acl": {
+  "kind": "Acl",
+  "owner": "",
+  "aces": []
+ },
+ "createdDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "lastModifiedDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "urls": [],
+ "tags": [],
+ "meta": [],
+ "url": {
+  "kind": "Url",
+  "uri": ""
+ },
+ "version": "",
+ "isPublic": false,
+ "projectId": "",
+ "folderId": "2",
+ "dataUri": "b2/cf/b2cfdc81-84b9-48a5-a9f7-483ecf9ae42f",
+ "metadata": {
+  "kind": "FileMetadata",
+  "contentType": "",
+  "cacheControl": "",
+  "contentEncoding": "",
+  "contentLanguage": "",
+  "md5Hash": ""
+ },
+ "size": 170
+}

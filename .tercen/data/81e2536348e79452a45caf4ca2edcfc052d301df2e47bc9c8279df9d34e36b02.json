@@ -1,0 +1,186 @@
+{
+ "kind": "TableSchema",
+ "id": "81e2536348e79452a45caf4ca2edcfc052d301df2e47bc9c8279df9d34e36b02",
+ "isDeleted": false,
+ "rev": "",
+ "description": "",
+ "name": "6139a8e5-027c-4bf5-a371-bf88df518ada",
+ "acl": {
+  "kind": "Acl",
+  "owner": "",
+  "aces": []
+ },
+ "createdDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "lastModifiedDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "urls": [],
+ "tags": [],
+ "meta": [
+  {
+   "kind": "Pair",
+   "key": "hidden",
+   "value": "true"
+  },
+  {
+   "kind": "Pair",
+   "key": "SHA256",
+   "value": "81e2536348e79452a45caf4ca2edcfc052d301df2e47bc9c8279df9d34e36b02"
+  }
+ ],
+ "url": {
+  "kind": "Url",
+  "uri": ""
+ },
+ "version": "",
+ "isPublic": false,
+ "projectId": "",
+ "folderId": "",
+ "nRows": 162373,
+ "columns": [
+  {
+   "kind": "ColumnSchema",
+   "id": "5aa9590d-af55-4dec-aaa1-7caf8e0bd430",
+   "name": "APC-A",
+   "type": "double",
+   "nRows": 0,
+   "size": -1,
+   "metaData": {
+    "kind": "ColumnSchemaMetaData",
+    "sort": [],
+    "ascending": true,
+    "quartiles": [],
+    "properties": []
+   }
+  },
+  {
+   "kind": "ColumnSchema",
+   "id": "ce92cce8-3f1b-422f-9148-119721c0b94b",
+   "name": "FITC-A",
+   "type": "double",
+   "nRows": 0,
+   "size": -1,
+   "metaData": {
+    "kind": "ColumnSchemaMetaData",
+    "sort": [],
+    "ascending": true,
+    "quartiles": [],
+    "properties": []
+   }
+  },
+  {
+   "kind": "ColumnSchema",
+   "id": "99de268b-d228-4d02-9b48-32f82f4643cf",
+   "name": "FSC-A",
+   "type": "double",
+   "nRows": 0,
+   "size": -1,
+   "metaData": {
+    "kind": "ColumnSchemaMetaData",
+    "sort": [],
+    "ascending": true,
+    "quartiles": [],
+    "properties": []
+   }
+  },
+  {
+   "kind": "ColumnSchema",
+   "id": "40ee94a6-0508-43ce-b51e-e1e3af20c465",
+   "name": "PE-A",
+   "type": "double",
+   "nRows": 0,
+   "size": -1,
+   "metaData": {
+    "kind": "ColumnSchemaMetaData",
+    "sort": [],
+    "ascending": true,
+    "quartiles": [],
+    "properties": []
+   }
+  },
+  {
+   "kind": "ColumnSchema",
+   "id": "b1b41baf-238b-4b5a-9502-9a2ee4915550",
+   "name": "SSC-A",
+   "type": "double",
+   "nRows": 0,
+   "size": -1,
+   "metaData": {
+    "kind": "ColumnSchemaMetaData",
+    "sort": [],
+    "ascending": true,
+    "quartiles": [],
+    "properties": []
+   }
+  },
+  {
+   "kind": "ColumnSchema",
+   "id": "ea494426-1672-4fbf-9437-ca2ac6f4c826",
+   "name": "Time",
+   "type": "double",
+   "nRows": 0,
+   "size": -1,
+   "metaData": {
+    "kind": "ColumnSchemaMetaData",
+    "sort": [],
+    "ascending": true,
+    "quartiles": [],
+    "properties": []
+   }
+  },
+  {
+   "kind": "ColumnSchema",
+   "id": "1792eeac-c055-4ae6-bac8-1c24c947d691",
+   "name": ".ci",
+   "type": "double",
+   "nRows": 0,
+   "size": -1,
+   "metaData": {
+    "kind": "ColumnSchemaMetaData",
+    "sort": [],
+    "ascending": true,
+    "quartiles": [],
+    "properties": []
+   }
+  },
+  {
+   "kind": "ColumnSchema",
+   "id": "5669877d-8c3b-435c-91b1-71c8db95f0ec",
+   "name": "fileId",
+   "type": "int32",
+   "nRows": 0,
+   "size": -1,
+   "metaData": {
+    "kind": "ColumnSchemaMetaData",
+    "sort": [],
+    "ascending": true,
+    "quartiles": [],
+    "properties": []
+   }
+  },
+  {
+   "kind": "ColumnSchema",
+   "id": "442385b9-47ae-441b-9c04-68257bae6371",
+   "name": "event_id",
+   "type": "int32",
+   "nRows": 0,
+   "size": -1,
+   "metaData": {
+    "kind": "ColumnSchemaMetaData",
+    "sort": [],
+    "ascending": true,
+    "quartiles": [],
+    "properties": []
+   }
+  }
+ ],
+ "dataDirectory": "data/81/e2/81e2536348e79452a45caf4ca2edcfc052d301df2e47bc9c8279df9d34e36b02",
+ "relation": {
+  "kind": "Relation",
+  "id": "6957f10a-24d3-46cb-9e0a-5032ac46617c"
+ }
+}
